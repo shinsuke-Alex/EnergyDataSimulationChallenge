@@ -1,0 +1,15 @@
+current directory: /Users/SHINSUKE/Desktop/EnergyDataSimulationChallenge/challenge3/webapp/shinsuke/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/SHINSUKE/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20190209-51775-1xrtxn4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/SHINSUKE/Desktop/EnergyDataSimulationChallenge/challenge3/webapp/shinsuke/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/SHINSUKE/Desktop/EnergyDataSimulationChallenge/challenge3/webapp/shinsuke/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/SHINSUKE/Desktop/EnergyDataSimulationChallenge/challenge3/webapp/shinsuke/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190209-51775-j4h9ut/bootsnap
